@@ -2,7 +2,7 @@
 
 ### Advanced Fashion Sales & Profitability Analytics Dashboard (2020–2025)
 
-![Dashboard Preview](<img width="1418" height="644" alt="image" src="https://github.com/user-attachments/assets/9f9b952d-3ada-4ef9-b1fc-cb7f8b3fb01b" />
+![Dashboard Preview](https://github.com/AymenAli-Analyst/Retail-Pulse-KSA/blob/main/dash.png?raw=true
 )
 
 ---
