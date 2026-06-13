@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,Gender,CostPrice,SalePrice,Brand
+P001,Classic Shirt,Shirts,Men,60,130,Zara
+P002,Black Hoodie,Hoodies,Unisex,90,200,Nike
+P003,Slim Jeans Blue,Pants,Men,110,250,Levi's
+P004,Modern Abaya,Abayas,Women,150,320,Local
+P005,Sport T-Shirt,Sportswear,Unisex,50,110,Adidas
+P006,Summer Dress,Dresses,Women,120,260,H&M
