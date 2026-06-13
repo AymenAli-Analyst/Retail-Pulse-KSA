@@ -2,7 +2,8 @@
 
 ### Advanced Fashion Sales & Profitability Analytics Dashboard (2020–2025)
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](<img width="1418" height="644" alt="image" src="https://github.com/user-attachments/assets/9f9b952d-3ada-4ef9-b1fc-cb7f8b3fb01b" />
+)
 
 ---
 
@@ -211,14 +212,6 @@ Replace the image below with your dashboard screenshot.
 **Aymen Ali**
 
 📊 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
-
-### Connect With Me
-
-🔗 LinkedIn: Your LinkedIn Profile
-
-🔗 GitHub: Your GitHub Profile
-
 ---
-
 ### ⭐ If you found this project useful, consider giving it a star!
 
